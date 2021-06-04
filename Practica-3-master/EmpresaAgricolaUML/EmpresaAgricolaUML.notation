@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_z0DH0H0QEeuOA_4Vdblu1A" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_Rz2tAH0dEeua8LN-n93cBA" type="Package_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_R0BsIH0dEeua8LN-n93cBA" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_R0EvcH0dEeua8LN-n93cBA" type="Package_PackagedElementCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_b2hr0H0dEeua8LN-n93cBA" type="Class_Shape">
+        <children xmi:type="notation:DecorationNode" xmi:id="_b2iS4H0dEeua8LN-n93cBA" type="Class_NameLabel"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_b2iS4X0dEeua8LN-n93cBA" type="Class_FloatingNameLabel">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_b2iS4n0dEeua8LN-n93cBA" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_b2iS430dEeua8LN-n93cBA" type="Class_AttributeCompartment">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_33eOEH0dEeua8LN-n93cBA" source="PapyrusCSSForceValue">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_33eOEX0dEeua8LN-n93cBA" key="collapsed" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:Shape" xmi:id="_4XJzsH0dEeua8LN-n93cBA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_V9xTQH0eEeua8LN-n93cBA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="EmpresaAgricolaUML.uml#_4W4G4H0dEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_4XJzsX0dEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_5T2FcH0dEeua8LN-n93cBA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_Vcr_cH0eEeua8LN-n93cBA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="EmpresaAgricolaUML.uml#_5Tm04H0dEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_5T2FcX0dEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_5onbkH0dEeua8LN-n93cBA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_VGdQwH0eEeua8LN-n93cBA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="EmpresaAgricolaUML.uml#_5ojKIH0dEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_5onbkX0dEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_5xviYH0dEeua8LN-n93cBA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_U3LeoH0eEeua8LN-n93cBA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="EmpresaAgricolaUML.uml#_5xoNoH0dEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_5xviYX0dEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_51YsQH0dEeua8LN-n93cBA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_UnUdsH0eEeua8LN-n93cBA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="EmpresaAgricolaUML.uml#_51TzwH0dEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_51YsQX0dEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_6AyD8H0dEeua8LN-n93cBA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_UPRKEH0eEeua8LN-n93cBA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="EmpresaAgricolaUML.uml#_6AphEH0dEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6AyD8X0dEeua8LN-n93cBA"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_b2iS5H0dEeua8LN-n93cBA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_b2iS5X0dEeua8LN-n93cBA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_b2iS5n0dEeua8LN-n93cBA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b2iS530dEeua8LN-n93cBA"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_b2i58H0dEeua8LN-n93cBA" type="Class_OperationCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_Wyi_IH0eEeua8LN-n93cBA" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="EmpresaAgricolaUML.uml#_WyWx4H0eEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Wyi_IX0eEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_XaJxsH0eEeua8LN-n93cBA" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="EmpresaAgricolaUML.uml#_XZ9kcH0eEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XaJxsX0eEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_Yk5tkH0eEeua8LN-n93cBA" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="EmpresaAgricolaUML.uml#_Ykp18H0eEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Yk5tkX0eEeua8LN-n93cBA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_Zs0X4H0eEeua8LN-n93cBA" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="EmpresaAgricolaUML.uml#_ZsnjkH0eEeua8LN-n93cBA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Zs0X4X0eEeua8LN-n93cBA"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_b2i58X0dEeua8LN-n93cBA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_b2i58n0dEeua8LN-n93cBA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_b2i5830dEeua8LN-n93cBA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b2i59H0dEeua8LN-n93cBA"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_b2i59X0dEeua8LN-n93cBA" type="Class_NestedClassifierCompartment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_b2i59n0dEeua8LN-n93cBA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_b2i5930dEeua8LN-n93cBA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_b2i5-H0dEeua8LN-n93cBA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b2i5-X0dEeua8LN-n93cBA"/>
+        </children>
+        <element xmi:type="uml:Class" href="EmpresaAgricolaUML.uml#_b2blMH0dEeua8LN-n93cBA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b2hr0X0dEeua8LN-n93cBA" x="14" y="8" width="501" height="281"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_R0EvcX0dEeua8LN-n93cBA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R0Evcn0dEeua8LN-n93cBA"/>
+    </children>
+    <element xmi:type="uml:Package" href="EmpresaAgricolaUML.uml#_RzlAMH0dEeua8LN-n93cBA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rz2tAX0dEeua8LN-n93cBA" x="40" y="40" width="780" height="361"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_TgDwIH0dEeua8LN-n93cBA" type="DataType_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_TgE-QH0dEeua8LN-n93cBA" type="DataType_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_TgFlUH0dEeua8LN-n93cBA" type="DataType_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_TgFlUX0dEeua8LN-n93cBA" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_TgIooH0dEeua8LN-n93cBA" type="DataType_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_TgIooX0dEeua8LN-n93cBA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_TgIoon0dEeua8LN-n93cBA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_TgIoo30dEeua8LN-n93cBA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TgIopH0dEeua8LN-n93cBA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_TgIopX0dEeua8LN-n93cBA" type="DataType_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_TgIopn0dEeua8LN-n93cBA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_TgIop30dEeua8LN-n93cBA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_TgIoqH0dEeua8LN-n93cBA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TgIoqX0dEeua8LN-n93cBA"/>
+    </children>
+    <element xmi:type="uml:DataType" href="EmpresaAgricolaUML.uml#_Tf-3oH0dEeua8LN-n93cBA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TgDwIX0dEeua8LN-n93cBA" x="840" y="220"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_z0DH0X0QEeuOA_4Vdblu1A" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_z0DH0n0QEeuOA_4Vdblu1A"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_z0DH030QEeuOA_4Vdblu1A" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="EmpresaAgricolaUML.uml#_zyjTAH0QEeuOA_4Vdblu1A"/>
+  </styles>
+  <element xmi:type="uml:Model" href="EmpresaAgricolaUML.uml#_zyjTAH0QEeuOA_4Vdblu1A"/>
+</notation:Diagram>

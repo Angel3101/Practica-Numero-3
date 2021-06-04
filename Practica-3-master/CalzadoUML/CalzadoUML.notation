@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_1TzGIHzKEeufI-diiPbbMA" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_AvzPYHzLEeufI-diiPbbMA" type="Package_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Av1roHzLEeufI-diiPbbMA" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Av2SsHzLEeufI-diiPbbMA" type="Package_PackagedElementCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_VS9KYHzLEeufI-diiPbbMA" type="Class_Shape">
+        <children xmi:type="notation:DecorationNode" xmi:id="_VS-YgHzLEeufI-diiPbbMA" type="Class_NameLabel"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_VS-YgXzLEeufI-diiPbbMA" type="Class_FloatingNameLabel">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_VS-YgnzLEeufI-diiPbbMA" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_VS-Yg3zLEeufI-diiPbbMA" type="Class_AttributeCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_qLCzkHzLEeufI-diiPbbMA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_xn2jYHzLEeufI-diiPbbMA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CalzadoUML.uml#_qKjEUHzLEeufI-diiPbbMA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_qLCzkXzLEeufI-diiPbbMA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_2BxxAHzLEeufI-diiPbbMA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_9Y1eIHzLEeufI-diiPbbMA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CalzadoUML.uml#_2Bh5YHzLEeufI-diiPbbMA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_2BxxAXzLEeufI-diiPbbMA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="__FvE0HzLEeufI-diiPbbMA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_DvyZIHzMEeufI-diiPbbMA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CalzadoUML.uml#__FcJ4HzLEeufI-diiPbbMA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="__FvE0XzLEeufI-diiPbbMA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ElpDEHzMEeufI-diiPbbMA" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_JD-PkHzMEeufI-diiPbbMA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CalzadoUML.uml#_ElOMUHzMEeufI-diiPbbMA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_ElpDEXzMEeufI-diiPbbMA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_J3TJ8HzMEeufI-diiPbbMA" type="Property_ClassAttributeLabel" gradient="16777215, -1, 0">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_RWEBkHzMEeufI-diiPbbMA" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CalzadoUML.uml#_J3APAHzMEeufI-diiPbbMA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_J3TJ8XzMEeufI-diiPbbMA"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_VS-YhHzLEeufI-diiPbbMA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_VS-YhXzLEeufI-diiPbbMA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_VS-YhnzLEeufI-diiPbbMA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VS-Yh3zLEeufI-diiPbbMA"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_VS-_kHzLEeufI-diiPbbMA" type="Class_OperationCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_UghycHzMEeufI-diiPbbMA" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="CalzadoUML.uml#_UgR60HzMEeufI-diiPbbMA"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UghycXzMEeufI-diiPbbMA"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_VS-_kXzLEeufI-diiPbbMA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_VS-_knzLEeufI-diiPbbMA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_VS-_k3zLEeufI-diiPbbMA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VS-_lHzLEeufI-diiPbbMA"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_VS-_lXzLEeufI-diiPbbMA" type="Class_NestedClassifierCompartment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_VS-_lnzLEeufI-diiPbbMA"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_VS-_l3zLEeufI-diiPbbMA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_VS-_mHzLEeufI-diiPbbMA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VS-_mXzLEeufI-diiPbbMA"/>
+        </children>
+        <element xmi:type="uml:Class" href="CalzadoUML.uml#_VS6uIHzLEeufI-diiPbbMA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VS9xcHzLEeufI-diiPbbMA" x="54" y="28" width="381" height="221"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Av2SsXzLEeufI-diiPbbMA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Av2SsnzLEeufI-diiPbbMA"/>
+    </children>
+    <element xmi:type="uml:Package" href="CalzadoUML.uml#_AvmbEHzLEeufI-diiPbbMA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AvzPYXzLEeufI-diiPbbMA" x="180" y="60" width="501" height="361"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_bEWhQHzLEeufI-diiPbbMA" type="DataType_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_bEYWcHzLEeufI-diiPbbMA" type="DataType_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_bEYWcXzLEeufI-diiPbbMA" type="DataType_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_bEYWcnzLEeufI-diiPbbMA" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_bEYWc3zLEeufI-diiPbbMA" type="DataType_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_bEYWdHzLEeufI-diiPbbMA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_bEYWdXzLEeufI-diiPbbMA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_bEYWdnzLEeufI-diiPbbMA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEYWd3zLEeufI-diiPbbMA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_bEYWeHzLEeufI-diiPbbMA" type="DataType_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_bEYWeXzLEeufI-diiPbbMA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_bEYWenzLEeufI-diiPbbMA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_bEYWe3zLEeufI-diiPbbMA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEYWfHzLEeufI-diiPbbMA"/>
+    </children>
+    <element xmi:type="uml:DataType" href="CalzadoUML.uml#_bENXUHzLEeufI-diiPbbMA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEWhQXzLEeufI-diiPbbMA" x="720" y="160" width="191" height="120"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_1TzGIXzKEeufI-diiPbbMA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_1TzGInzKEeufI-diiPbbMA"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_1TzGI3zKEeufI-diiPbbMA" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="CalzadoUML.uml#_1TF7gHzKEeufI-diiPbbMA"/>
+  </styles>
+  <element xmi:type="uml:Model" href="CalzadoUML.uml#_1TF7gHzKEeufI-diiPbbMA"/>
+</notation:Diagram>
